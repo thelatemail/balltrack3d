@@ -1,10 +1,6 @@
 # balltrack3d
 ball tracking data plotted in 3d in R
 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="outfix.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
+
+https://user-images.githubusercontent.com/5144240/127090063-093f965a-bafe-430a-a700-5abd277197aa.mp4
+
